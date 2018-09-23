@@ -1,6 +1,6 @@
 # inventorycontrol
 
-> Inventory Control in VueJS. Integration with GraphQL API.  
+> Inventory Control in VueJS. Integration with GraphQL API.
 
 ## Build Setup
 
